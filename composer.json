@@ -1,6 +1,6 @@
 {
-    "name": "dionera/laravel-beanstalkd-ui",
-    "description": "An Admin UI for Beanstalkd and Laravel",
+    "name": "dmitry-galuschkin/laravel-beanstalkd-ui",
+    "description": "An Admin UI for Beanstalkd and Laravel - Fork",
     "license": "MIT",
     "authors": [
         {
